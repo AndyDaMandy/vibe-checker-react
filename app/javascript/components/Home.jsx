@@ -7,7 +7,7 @@ export default () => (
       <div className="">
         <h1 className="display-4">Vibes</h1>
         <p className="">
-          A simple app to ve your vibes
+          A simple app to view your vibes
         </p>
         <hr className="my-4" />
         <Link
